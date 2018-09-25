@@ -9,4 +9,4 @@ script:
   - xctool -project Scuba.xcodeproj -scheme Scuba -sdk iphonesimulator run-tests
 
 after_success:
-- bash <(curl -s https://codecov.io/bash)
+  - bash <(curl -s https://codecov.io/bash)
