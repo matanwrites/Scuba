@@ -1,3 +1,6 @@
+[![CI Status](http://img.shields.io/travis/matanwrites/Scuba.svg?style=flat)](https://travis-ci.com/matanwrites/Scuba.svg?branch=develop)
+[![codecov](https://codecov.io/gh/matanwrites/Scuba/branch/develop/graph/badge.svg)](https://codecov.io/gh/matanwrites/Scuba)
+
 # Scuba
 Communication Mechanism
 
