@@ -16,3 +16,10 @@ extension XCTestCase {
         }
     }
 }
+
+
+func XCTAssertNils(_ objs: [Any]) {
+    for v in objs {
+        XCTAssertNil(v)
+    }
+}
